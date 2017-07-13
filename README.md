@@ -1,5 +1,6 @@
 # Algorithms & Data Structures
     # GIF to InterviewBit
-<img src="http://i.imgur.com/1d6R3Mh.gif" title='IB' />
+
+<img src="http://i.imgur.com/Zje4Qaq.gif" title='Week1' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
