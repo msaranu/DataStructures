@@ -1,4 +1,4 @@
-package prerequisites;
+package unit2.linkedlists;
 
 public class ListNode {
 
